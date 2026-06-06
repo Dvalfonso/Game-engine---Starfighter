@@ -27,7 +27,7 @@ The game includes:
 
 ## Gameplay
 
-![Gameplay Screenshot](Starfighter/docs/images/gameplay.png)
+![Gameplay Screenshot](StarFighter/docs/images/gameplay.png)
 
 
 ---
@@ -38,11 +38,11 @@ The project was designed using Object-Oriented Programming principles and severa
 
 ## UML Diagram
 
-![UML Diagram](Starfighter/docs/images/uml1.png)
+![UML Diagram](StarFighter/docs/images/uml1.png)
 
-![UML Diagram](Starfighter/docs/images/uml2.png)
+![UML Diagram](StarFighter/docs/images/uml2.png)
 
-![UML Diagram](Starfighter/docs/images/uml3.png)
+![UML Diagram](StarFighter/docs/images/uml3.png)
 
 ---
 
